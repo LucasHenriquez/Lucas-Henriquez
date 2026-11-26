@@ -43,7 +43,7 @@ Hoy me especializo en el desarrollo **Full-Stack**, la integración de APIs comp
 
 ### 🚀 Proyectos Destacados
 
-<img src="https://raw.githubusercontent.com/LucasHenriquez/TU_REPO_ASSETS/main/logo-club-san-miguel.png" alt="Logo Club de San Miguel" height="42" />
+<img src="https://github.com/LucasHenriquez/Lucas-Henriquez/blob/main/Logotipo%20Club%20de%20San%20Miguel%20en%20ne%C3%B3n.png" alt="Logo Club de San Miguel" height="42" />
 
 #### **Club de San Miguel — Ecosistema Operativo, ERP, POS & Automatización**
 - *Stack:* Node.js, Express, MongoDB, Railway, Cloudflare R2, WhatsApp Business API, Twilio, Bsale, SMTP / Telegram.
@@ -55,7 +55,7 @@ Hoy me especializo en el desarrollo **Full-Stack**, la integración de APIs comp
 
 ---
 
-<img src="https://raw.githubusercontent.com/LucasHenriquez/TU_REPO_ASSETS/main/logo-flumen.png" alt="Logo Flumen" height="42" />
+<img src="https://github.com/LucasHenriquez/Lucas-Henriquez/blob/main/Gemini_Generated_Image_onz0pnonz0pnonz0.png" alt="Logo Flumen" height="42" />
 
 #### **Flumen — Proyecto de Titulación (Gestión Hídrica y Riego)**
 - *Stack:* Angular, Node.js, MongoDB Atlas, Cálculos Hidráulicos (Ecuación de Manning), Mapeo Vectorial.
